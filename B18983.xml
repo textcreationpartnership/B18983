@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties gracious and last message sent by the Earle of Dorset, the Earl of Southampton, Sir Iohn Culppper, chancellor of the Exchequer, and Sir William V. Vedall, Kt. : to both the honorable Houses of Parliament, from Nottingham, 25. August 1642 : whereunto is added the late message of both Houses of Parliament in answer to His Majesties message of the 25 of August present, agreed upon to be sent to His Majesty the 29. Aug. : also their severall votes resolved upon the questions.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18983</idno>
+            <idno type="STC">Wing C2316</idno>
+            <idno type="EEBO-CITATION">15565208</idno>
+            <idno type="OCLC">ocm 15565208</idno>
+            <idno type="VID">204161</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B18983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204161)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1184:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties gracious and last message sent by the Earle of Dorset, the Earl of Southampton, Sir Iohn Culppper, chancellor of the Exchequer, and Sir William V. Vedall, Kt. : to both the honorable Houses of Parliament, from Nottingham, 25. August 1642 : whereunto is added the late message of both Houses of Parliament in answer to His Majesties message of the 25 of August present, agreed upon to be sent to His Majesty the 29. Aug. : also their severall votes resolved upon the questions.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Elsynge, Henry, 1598-1654.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>For Fr. Coles ...,</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>30. of Aug., [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also printed with title: His Majesties gracious message to both Houses of Parliament sent from Nottingham the 25 of August 1642.</note>
+                  <note>"A message of both Houses of Parliament in answer to His Majesties message of the 25 of August present ..." (p. 5-8) signed: Hen. Elsyng.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dorset, Edward Sackville, --  Earl of, 1591-1652.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204161:1"/>
+            <pb facs="tcp:204161:2" rendition="simple:additions"/>
+            <p>His Maieſties graci<g ref="char:EOLhyphen"/>ous and laſt Meſſage, <hi>SENT</hi> By
+<list>
+                  <item>the Earle of <hi>Dor<g ref="char:EOLhyphen"/>ſet.</hi> 
+                  </item>
+                  <item>The Earl of <hi>Southamp<g ref="char:EOLhyphen"/>ton.</hi> 
+                  </item>
+               </list> Sir <hi>Iohn Culpepper,</hi>Chancellor of the Ex<g ref="char:EOLhyphen"/>chequer. And <hi>Sir William V-Vedall,</hi> Kt.</p>
+            <p>To both the honorable houſes of Parliament, from <hi>Nottingham,</hi> 25. <hi>Auguſt</hi> 1642.</p>
+            <p>Whereunto is added the late Meſſage of both houſes of Parliament in anſwer to his Majeſties meſſage of the 25 of <hi>Auguſt</hi> preſent, agreed upon to be ſent to his Majeſty the 29. <hi>Aug.</hi>
+            </p>
+            <p>Alſo their ſeverall Votes Reſolved upon the Queſtions.</p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>printer's device consisting of the English royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+            </figure>
+            <p>Printed for <hi>Fr. Coles.</hi> this 30. of <hi>Aug.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="message_to_Parliament">
+            <pb n="3" facs="tcp:204161:3"/>
+            <head>His Maieſties gracious meſſage <hi>to both Houſes of Parliament, ſent from</hi> Nottingham the 25. of <hi>Auguſt,</hi> 1642.</head>
+            <byline>By the E<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>les of <hi>Southampton</hi> and <hi>Dorſet,</hi> Sir <hi>Iohn Culpeper</hi> Knight, Chancellour of the Exchequer, and Sir <hi>William Vvedall.</hi> Knight.</byline>
+            <p>
+               <seg rend="decorInit">W</seg>Ee have with unſpeakable griefe of heart long beheld the Diſtractions of this Our Kingdome, Our very ſoul is full of anguiſh untill We may find ſome remedy to prevent the mi<g ref="char:EOLhyphen"/>ſeries which are ready to overwhelm this whole na<g ref="char:EOLhyphen"/>tion by a civill war. And though all our endeavours tending to the compoſing of thoſe unhappy diffe<g ref="char:EOLhyphen"/>rences betwixt Us and Our two Houſes of Parlia<g ref="char:EOLhyphen"/>ment (though purſued by us with all zeal and ſince<g ref="char:EOLhyphen"/>rity) have been hitherto without that ſucceſſe We hoped for, yet ſuch is our conſtant and earneſt care
+<pb n="3" facs="tcp:204161:3" rendition="simple:additions"/>to preſerve the publike peace, that We ſhall not be diſcouraged from uſing any expedient, which by the bleſſing of the God of mercy may lay a firme foundation of peace and happineſſe to all our good Subjects. To this end, obſerving that many miſtakes have ariſen by the Meſſages, Petitions and anſwers betwixt us &amp; our two Houſes of Parliament, which happily may be prevented by ſome other way of treaty, wherein the matters in difference may bee more clearly underſtood, &amp; more freely tranſacted. We have thought fit to propound to you, that ſome fit perſons may be by you inabled to treat with the like number to be authorized by Vs, in ſuch a man<g ref="char:EOLhyphen"/>ner, and with ſuch freedome of debate, as may beſt tend to that happy concluſion which all good men deſire, <hi>The peace of the Kingdome:</hi> wherein as We pro<g ref="char:EOLhyphen"/>miſe in the word of a King all ſafety and encou<g ref="char:EOLhyphen"/>ragement to ſuch as ſhall be ſent unto Vs, if you ſhal chuſe the place where We are for the treaty, which We wholly leave to you, preſuming of the like care of the ſafety of thoſe we ſhall imploy, if you ſhall name another place; So we aſſure you and all Our good Subjects, that (to the beſt of Our underſtan<g ref="char:EOLhyphen"/>ding) nothing ſhall bee therein wanting on Our parts, which may advance the true Proteſtant Reli<g ref="char:EOLhyphen"/>gion,
+<pb n="4" facs="tcp:204161:4"/>oppoſe popery and ſuperſtition, ſecure the Law of the Land (upon which is built as well Our juſt Prerogative, as the propriety and liberty of the Subject) confirme all juſt power and Priviledges of Parliament, and render Vs and Our people truely happy by a good underſtanding betwixt Vs and our two Houſes of Parliament. Bring with you as firme reſolutions to do your duty, and let all Our good people joyne with Vs in Our prayers to Almighty God for his bleſſing upon this worke.</p>
+            <p>If this propoſition ſhall be rejected by you, wee have done our duty ſo amply, that God will abſolve Vs from the guilt of any of that blood which muſt be ſpilt, and what opinion ſoever other men may have of Our power, we aſſure you nothing but our Chriſtian and pious care to prevent the effuſion of blood hath begot this motion, our proviſion of men, Armes, mony, being ſuch as may ſecure Vs from further violence, till it ſhall pleaſe God to open the eyes of our People.</p>
+         </div>
+         <div type="message_to_Parliament">
+            <pb n="5" facs="tcp:204161:4" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>French fleur-de-lis surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Tudor rose surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Irish harp surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Scottish thistle surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>A Meſſage of both Houſes of <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> in anſwer to his Majeſties <hi>Meſſage</hi> of the 25 of <hi>August</hi> preſent, agreed upon, and ſent to his <hi>Maieſty</hi> this 29. of <hi>Aug.</hi> 1642.</head>
+            <opener>
+               <salute>May it pleaſe your Maieſty:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lords and Com<g ref="char:EOLhyphen"/>mons in <hi>Parliament</hi> aſ<g ref="char:EOLhyphen"/>ſembled; having recei<g ref="char:EOLhyphen"/>ved your <hi>Maieſties</hi> meſ<g ref="char:EOLhyphen"/>ſage of the 25 of <hi>Auguſt,</hi> do with much griefe <hi>Recent</hi> the dan<g ref="char:EOLhyphen"/>gerous and diſtracted ſtate of this <hi>Kingdome,</hi> which wee have by all meanes indeavoured to prevent, both by our ſeverall <hi>adviſes</hi> and <hi>Petitions</hi>
+               <pb n="6" facs="tcp:204161:5"/>to your Majeſtie; which have bin <hi>not only</hi> without ſucceſſe, but there hath followed that, <hi>which</hi> no ill Councel in former times hath produced, or any age hath ſeene: Namely, thoſe ſeve<g ref="char:EOLhyphen"/>ral <hi>proclamations</hi> &amp; <hi>declarations</hi> againſt both the houſes of parliament, wher<g ref="char:EOLhyphen"/>by their actions are declared treaſona<g ref="char:EOLhyphen"/>ble, and their perſons Traitors. And thereupon your <hi>Maieſty</hi> hath ſet up your <hi>Standard</hi> againſt them, wherby your <hi>Maieſty</hi> have put the two <hi>houſes</hi> of <hi>Parliament,</hi> and in them, <hi>this whole Kingdome out of your Protection:</hi> So that untill your <hi>Maieſty</hi> ſhall recall thoſe <hi>Proclamations</hi> and <hi>Declarations,</hi> whereby the Earle of <hi>Eſſex,</hi> and both <hi>Houſes</hi> of <hi>Parliament,</hi> and their <hi>Adherents,</hi> and ſuch as have obeyed and Executed their Commands and Directions, according to their <hi>duties,</hi>
+               <pb n="7" facs="tcp:204161:5" rendition="simple:additions"/>are declared <hi>Traytors.</hi> And until the <hi>Standard</hi> ſet up in purſuance of the ſayd <hi>Declarations</hi> be taken downe: your <hi>Maieſty</hi> hath put us into ſuch a <hi>Condition</hi> that whilſt wee ſo remaine, <hi>We</hi> cannot by the Fundamentall <hi>Pri<g ref="char:EOLhyphen"/>vileges of Parliament, the publicke Truſt repoſed in <g ref="char:V">Ʋ</g>s, or the General good or ſafety of this Kingdome, give your Maieſty an other anſwere unto this your meſſage.</hi>
+            </p>
+            <p>REſolved upon the <hi>Queſtion</hi> by the <hi>Houſe of Commons</hi> at the time of paſſing the <hi>Vote</hi> in anſwere to the Kings meſſage on Saterday the 27 of Aug. 1640.</p>
+            <p>That the Lords be moved to joyn with the Commons in a direction to the Lord
+<pb n="8" facs="tcp:204161:6" rendition="simple:additions"/>Generall, that hee advance his Forces with all poſſible ſpeed for the defence and ſafety of the Kingdome.</p>
+            <p>
+               <hi>Reſolued further, &amp;c.</hi>
+               <lb/> THat this the Commons doth not, out of any apprehenſion of any backe<g ref="char:EOLhyphen"/>wardneſſe in the Lord Generall, but to give ſatisfaction that this meſſage of his Maieſties doth not render them any way ſlacke.</p>
+            <closer/>
+            <postscript>
+               <p>Ordered that this anſwere bee forth<g ref="char:EOLhyphen"/>with printed and then publiſhed.</p>
+               <closer>
+                  <signed>Hen. Elſyng C. P. D, C.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINI</trailer>
+      </body>
+   </text>
+</TEI>
